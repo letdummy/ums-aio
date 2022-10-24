@@ -9,9 +9,9 @@
 
 📌 [OOP Course AiO Repo - UMS Semester 3]:pencil2:
 
-📌 <a href="https://github.com/letdummy/swp-fki" target="_blank">Final Project for Static Web Programming - UMS Semester 1</a>
+📌 [Final Project for Static Web Programming - UMS Semester 1](https://github.com/letdummy/swp-fki)
 
-📌 <a href="https://github.com/letdummy/Boo-finale" target="_blank">Final Project for Visual Programming Language - UMS Semester 2</a>
+📌 [Final Project for Visual Programming Language - UMS Semester 2](https://github.com/letdummy/Boo-finale)
 
 📌 [Final Project for Object Oriented Programming - UMS Semester 3]:pencil2:
 
